@@ -1,0 +1,11 @@
+.cards {
+  min-height: 70vh;
+}
+
+label {
+  color: gray;
+}
+
+.highlight {
+  background-color: lightgrey;
+}
