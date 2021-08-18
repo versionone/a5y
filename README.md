@@ -1,7 +1,7 @@
 
 
-# ${projectname}
-
+# A5Y
+a riff on K8i (Kubernetes) and k6i (Kalamari) - for the uninitiated, the number represents the number of letters in between the first and last letter of the word...so a5y *could* represent Ability, if that's what you decide it means. It could mean Agility, too.
 
 
 ## Usage
